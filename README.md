@@ -1,4 +1,4 @@
-## Robiel B Kennedy👋
+## Robiel B Kennedy Github profile is in progress :) 👋
 
 <!--
 **RobielKennedy/RobielKennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
