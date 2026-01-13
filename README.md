@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Description & Projects & (Fields intrested ?)
 
+### Project List
+- Start up -> Ideation stage
+- Personal Project
+- Capstone Final Project
+- Safe Bet
+- Python Project
+- CSCI 1300 Project (maybe)
+
